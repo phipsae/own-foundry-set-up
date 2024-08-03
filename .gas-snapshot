@@ -1,0 +1,8 @@
+FundMeTest:testDataFeedVersion() (gas: 13654)
+FundMeTest:testFundWithoutValueFails() (gas: 23039)
+FundMeTest:testFundWorks() (gas: 96505)
+FundMeTest:testFunderAdded() (gas: 102740)
+FundMeTest:testIsOwner() (gas: 8464)
+FundMeTest:testMinimumDollarIsFive() (gas: 8345)
+FundMeTest:testOnlyOwnerCanWithdraw() (gas: 99520)
+FundMeTest:testWithdrawAllWithMultipleFunders() (gas: 485812)
