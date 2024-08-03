@@ -1,6 +1,6 @@
 ## Foundry
 
-FSet up of own dev environment with test in foundry.
+Set up of own dev environment with test in foundry with the help of cyfrin.
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
 
